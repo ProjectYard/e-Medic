@@ -4,10 +4,6 @@
     font-family: sans-serif;
 }
 
-.logo{
-    color: red;
-}
-
 body{
-    background-image: url("../images/bg.jpg");
+    background-color: #b9e6ff;
 }
