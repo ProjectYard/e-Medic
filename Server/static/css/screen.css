@@ -3,3 +3,9 @@
     padding: 0;
     font-family: sans-serif;
 }
+
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: (https://user-images.githubusercontent.com/68010704/115448003-c6130100-a236-11eb-8528-f7d92b570ef6.jpg);
+}
